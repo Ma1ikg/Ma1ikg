@@ -21,7 +21,9 @@
 
 <h2> 📄 Certifications</h2>
 - <b>Security Plus +(Comptia)</b>
-- <b>MTA: Windows Operating System Fundamentals(Microsft)</b>
+<Br>
+- <b>MTA: Windows Operating System Fundamentals(Microsoft)</b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
