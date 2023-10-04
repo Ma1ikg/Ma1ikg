@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -17,12 +13,21 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Blockchain)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 📄 Certifications</h2>
 - <b>Security Plus +(Comptia)</b>
 <Br>
-- <b>MTA: Windows Operating System Fundamentals(Microsoft)</b>
+- <b>MTA: Windows Operating System Fundamentals(Microsoft)</b><Br>
+- <b> TryHackMe Cyber Defense [in progress October 2023]</b><Br>
+- <b> TryHackMe Security Engineer [in progress October 2023]</b><Br>
+- <b>Microsoft Certified: Azure Fundamentals(Microsoft) [in progress November 2023]</b><Br>
+- <b>AWS Certified Cloud Practitioner(Amazon) [in progress November 2023]</b><Br>
+- <b> Blockchain Fintech Certification (EC-Council) [in progress November 2023]</b><Br>
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
